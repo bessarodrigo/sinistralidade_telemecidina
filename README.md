@@ -4,6 +4,10 @@
 
 Este notebook Python explora e analisa dados de sinistralidade de uma empresa de telemedicina. O objetivo é calcular e visualizar a sinistralidade média mensal, trimestral e por empresa, utilizando técnicas de visualização de dados.
 
+## Artigo no Medium
+
+[Análise de Sinistralidade em uma empresa de Telemedicina com CRISP-DM](https://medium.com/@reisrodri/an%C3%A1lise-de-sinistralidade-em-uma-empresa-de-telemedicina-com-crisp-dm-8e731fe009b2)
+
 ## Bibliotecas Utilizadas
 
 - **Pandas**: Para manipulação e análise de dados estruturados.
