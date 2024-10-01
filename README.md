@@ -35,9 +35,3 @@ Este notebook Python explora e analisa dados de sinistralidade de uma empresa de
 3. **Análise Estatística**:
    - Cálculo de estatísticas descritivas como média, mínimo e máximo de sinistralidade.
 
-## Como Usar Este Notebook
-
-- Clone o repositório e abra o notebook `sinistralidade_telemedicina.ipynb`.
-- Execute cada célula sequencialmente para carregar os dados, criar visualizações e interagir com os widgets.
-- Explore diferentes empresas e períodos para uma compreensão detalhada da sinistralidade.
-
