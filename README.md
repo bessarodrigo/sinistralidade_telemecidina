@@ -8,19 +8,29 @@ Este notebook Python explora e analisa dados de sinistralidade de uma empresa de
 
 [Análise de Sinistralidade em uma empresa de Telemedicina com CRISP-DM](https://medium.com/@reisrodri/an%C3%A1lise-de-sinistralidade-em-uma-empresa-de-telemedicina-com-crisp-dm-8e731fe009b2)
 
+## Estrutura do Projeto
+
+- **sinistralidade_telemedicina.ipynb**: Notebook principal para análise e visualização dos dados de sinistralidade
+- **data_profiling.ipynb**: Notebook dedicado ao profiling de dados, utilizando a biblioteca Sweetviz para gerar insights iniciais
+
+- **consultas.html**: Página HTML com uma visualização específica de consultas e informações associadas
+- **vidas_ativas.html**: Página HTML que apresenta informações sobre vidas ativas relacionadas ao projeto de sinistralidade
+
 ## Bibliotecas Utilizadas
 
-- **Pandas**: Para manipulação e análise de dados estruturados.
-- **Matplotlib**: Para criação de gráficos e visualizações.
-- **NumPy**: Para operações numéricas eficientes.
-- **IPyWidgets**: Para criação de widgets interativos.
-- **IPython.display**: Para exibição de widgets e gráficos dentro do notebook.
+- **Pandas**: Para manipulação e análise de dados estruturados
+- **Matplotlib**: Para criação de gráficos e visualizações
+- **NumPy**: Para operações numéricas eficientes
+- **IPyWidgets**: Para criação de widgets interativos
+- **IPython.display**: Para exibição de widgets e gráficos dentro do notebook
+- **Sweetviz**: Utilizada para o data profiling inicial, fornecendo um resumo visual e estatístico dos dados.
 
 ## Funcionalidades
 
-- **Análise Mensal**: Calcula e visualiza a sinistralidade média por mês.
-- **Análise Trimestral**: Compara a sinistralidade trimestralmente.
-- **Análise por Empresa**: Permite selecionar uma empresa específica e analisar sua sinistralidade ao longo do tempo.
+- **Análise Mensal**: Calcula e visualiza a sinistralidade média por mês
+- **Análise Trimestral**: Compara a sinistralidade trimestralmente
+- **Análise por Empresa**: Permite selecionar uma empresa específica e analisar sua sinistralidade ao longo do tempo
+- **Data Profiling (Sweetviz)**: Gera um relatório interativo de profiling que destaca distribuições, valores nulos, correlações e outras características dos dados.
 
 ## Estrutura do Notebook
 
