@@ -10,7 +10,7 @@ Este notebook Python explora e analisa dados de sinistralidade de uma empresa de
 
 ## Estrutura do Projeto
 
-- **sinistralidade_telemedicina.ipynb**: Notebook principal para análise e visualização dos dados de sinistralidade
+- **sinistralidade_telemedicina.ipynb**: Notebook principal para visualização dos dados de sinistralidade
 - **data_profiling.ipynb**: Notebook dedicado ao profiling de dados, utilizando a biblioteca Sweetviz para gerar insights iniciais
 
 - **consultas.html**: Página HTML com uma visualização específica de consultas e informações associadas
@@ -44,4 +44,3 @@ Este notebook Python explora e analisa dados de sinistralidade de uma empresa de
 
 3. **Análise Estatística**:
    - Cálculo de estatísticas descritivas como média, mínimo e máximo de sinistralidade.
-
