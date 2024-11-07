@@ -86,6 +86,7 @@ cython_debug/
 
 # Ignorar arquivo Excel
 dados/*.xlsx
+dados/*.csv
 
 # Ignorar o devcontainer
 # .devcontainer/
